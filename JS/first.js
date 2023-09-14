@@ -1,2 +1,2 @@
 let myVariable;
-myVariable = "Bob";
+myVariable = "Hello";
